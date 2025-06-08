@@ -1,3 +1,5 @@
+import pdfplumber
+
 def carregar_documento(caminho_do_pdf):
 
     with pdfplumber.open(caminho_do_pdf) as pdf:
