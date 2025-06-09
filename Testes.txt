@@ -1,0 +1,52 @@
+Pergunta: 
+
+Como é feita a classificação dos cachos?
+
+Resposta:
+
+mrm8488/distilbert-multi-finedtuned-squad-pt = 
+{'score': 0.7753680348396301, 'start': 836, 'end': 855, 'answer': 'no folículo piloso,'}
+
+"pierreguillou/bert-large-cased-squad-v1.1-portuguese" =
+{'score': 0.4581072926521301, 'start': 830, 'end': 850, 'answer': 'estrutura espiralada'}
+
+"pierreguillou/bert-base-cased-squad-v1.1-portuguese" =
+{'score': 0.6285988688468933, 'start': 830, 'end': 850, 'answer': 'estrutura espiralada'}
+
+
+"Como é a classificação dos cachos?"
+
+{'score': 0.32876259088516235, 'start': 836, 'end': 855, 'answer': 'no folículo piloso,'}
+
+{'score': 0.9119400978088379, 'start': 1599, 'end': 1615, 'answer': 'tipos e subtipos'}
+
+{'score': 0.6248050928115845, 'start': 1599, 'end': 1615, 'answer': 'tipos e subtipos'}
+
+Multilingual:
+
+Khanh/bert-base-multilingual-cased-finetuned-squad
+{'score': 0.3119760751724243, 'start': 48, 'end': 67, 'answer': 'em tipos e subtipos'}
+
+
+Ingles:
+
+deepset/roberta-base-squad2
+{'score': 0.6933280229568481, 'start': 1428, 'end': 1446, 'answer': 'types and subtypes'}
+
+deepset/roberta-large-squad2
+{'score': 0.9482019543647766, 'start': 1428, 'end': 1446, 'answer': 'types and subtypes'}
+
+distilbert/distilbert-base-uncased-distilled-squad
+{'score': 0.6249252557754517, 'start': 1660, 'end': 1676, 'answer': 'spiral structure'}
+
+sjrhuschlee/flan-t5-base-squad2
+{'score': 0.8323200941085815, 'start': 1093, 'end': 1101, 'answer': ' Type 4,'}
+
+deepset/electra-base-squad2
+{'score': 0.9981828927993774, 'start': 1431, 'end': 1449, 'answer': 'types and subtypes'}
+
+deepset/bert-large-uncased-whole-word-masking-squad2
+{'score': 0.7636994123458862, 'start': 1431, 'end': 1449, 'answer': 'types and subtypes'}
+
+deepset/bert-base-uncased-squad2
+{'score': 0.8222226500511169, 'start': 1660, 'end': 1676, 'answer': 'spiral structure'}
