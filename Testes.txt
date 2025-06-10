@@ -50,3 +50,86 @@ deepset/bert-large-uncased-whole-word-masking-squad2
 
 deepset/bert-base-uncased-squad2
 {'score': 0.8222226500511169, 'start': 1660, 'end': 1676, 'answer': 'spiral structure'}
+
+
+Chunks portugues:
+
+Chunk 0
+3 primeiras palavras: A Definição e
+3 últimas palavras: ressaltar que essa
+Chunk 1
+3 primeiras palavras: ##ículo, mais apertada
+3 últimas palavras: em comunidades negras,
+Chunk 2
+3 primeiras palavras: O Tipo 4,
+3 últimas palavras: atrito que causa
+Chunk 3
+3 primeiras palavras: exemplo, é amplamente
+3 últimas palavras: biológica, cultural ou
+Chunk 4
+3 primeiras palavras: o " devacut
+3 últimas palavras: que eles representam.
+
+
+
+Chunk Ingles:
+
+Chunk 0
+3 primeiras palavras: the definition and
+3 últimas palavras: defined and voluminous
+Chunk 1
+3 primeiras palavras: ( type 1
+3 últimas palavras: reason, deep hydra
+Chunk 2
+3 primeiras palavras: to erase it.
+3 últimas palavras: tutorials on haircuts
+Chunk 3
+3 primeiras palavras: damage the structure
+3 últimas palavras: identity it represents.
+
+
+Pergunta: 
+O que é importante ressaltar nessa categorização?
+
+1 - {'score': 0.3146421015262604, 'start': 1486, 'end': 1509, 'answer': 'técnicas de finalização'}
+
+2 -
+
+Janela Deslizantes Portugues:
+
+Chunk 0
+3 primeiras palavras: A Definição e
+3 últimas palavras: ressaltar que essa
+Chunk 1
+3 primeiras palavras: variados quanto as
+3 últimas palavras: ), que já
+Chunk 2
+3 primeiras palavras: crescem a partir
+3 últimas palavras: técnicas de finalização.
+Chunk 3
+3 primeiras palavras: ##ículo, mais apertada
+3 últimas palavras: em comunidades negras,
+Chunk 4
+3 primeiras palavras: categorização não é
+3 últimas palavras: os óleos naturais
+Chunk 5
+3 primeiras palavras: começam a formar
+3 últimas palavras: Oil ), por
+Chunk 6
+3 primeiras palavras: O Tipo 4,
+3 últimas palavras: atrito que causa
+Chunk 7
+3 primeiras palavras: onde o cabelo
+3 últimas palavras: extremos, permanentemente. Cultural
+Chunk 8
+3 primeiras palavras: produzidos pelo couro
+3 últimas palavras: cachos ( como
+Chunk 9
+3 primeiras palavras: exemplo, é amplamente
+3 últimas palavras: biológica, cultural ou
+Chunk 10
+3 primeiras palavras: o frizz. A
+3 últimas palavras: que eles representam.
+
+
+
